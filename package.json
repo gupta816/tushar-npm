@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "tushar-npm"
-  },
+    "url": "https://github.com/gupta816/tushar-npm.git"
+    },
   "author": "tushar kumar",
   "license": "ISC",
   "publishConfig": {
