@@ -1,5 +1,5 @@
 {
-  "name": "tushar-npm",
+  "name": "@gupta816/tushar-npm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,8 @@
     "url": "tushar-npm"
   },
   "author": "tushar kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@gupta816:registry": "https://npm.pkg.github.com"
+  }
 }
